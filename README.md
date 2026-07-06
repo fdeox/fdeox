@@ -2,8 +2,6 @@
 
 hi, I'm **Ahmet** (fdeox) 
 
-I like it when software looks like it's running on a machine from 1987.
-
 ## `ahmet@github:~ $ cat about.txt`
 
 - 🎓 studied **web design & programming** in high school
