@@ -1,6 +1,6 @@
 # `ahmet@github:~ $ whoami`
 
-hi, I'm **Ahmet** (fdeox) — from Türkiye 🇹🇷
+hi, I'm **Ahmet** (fdeox) 
 
 I like it when software looks like it's running on a machine from 1987.
 
