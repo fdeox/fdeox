@@ -39,3 +39,5 @@ I like it when software looks like it's running on a machine from 1987.
 ## `ahmet@github:~ $ uptime`
 
 listening to music, building things, repeat. █
+
+<!-- termspot vibes -->
