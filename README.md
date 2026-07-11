@@ -1,15 +1,14 @@
-# `ahmet@github:~ $ whoami`
+# `fdeox@github:~ $ whoami`
 
-hi, I'm **Ahmet** (fdeox) 
+hi, I'm **Ahmet** 
 
-## `ahmet@github:~ $ cat about.txt`
+## `fdeox@github:~ $ cat about.txt`
 
 - 🎓 studied **web design & programming** in high school
-- 🔧 worked at **Casper** technical service
+- 🔧 worked at **Casper** technical service, IV Kandilli Project at Istanbul
 - 🏛️ university degree in **architecture**
-- 🖥️ terminal aesthetics enjoyer
 
-## `ahmet@github:~ $ ls skills/`
+## `fdeox@github:~ $ ls skills/`
 
 **code:**
 
@@ -27,15 +26,11 @@ hi, I'm **Ahmet** (fdeox)
 
 ...and most of the usual suspects.
 
-**tools:** I use whatever gets the job done — including AI. ideas first, tools second.
+**tools:** I use whatever gets the job done — including AI.
 
-## `ahmet@github:~ $ ls projects/`
+## `fdeox@github:~ $ ls projects/`
 
 - **[termspot](https://github.com/fdeox/termspot)** — CRT phosphor terminal theme for Spotify: hidden command terminal, live ASCII album art, 18+ color schemes
 - **[Terminal Greeting](https://github.com/fdeox/spicetify-terminal-greeting)** — a terminal prompt for your Spotify home page: greeting, live clock, now-playing ticker, fake boot screen
 
-## `ahmet@github:~ $ uptime`
 
-listening to music, building things, repeat. █
-
-<!-- termspot vibes -->
