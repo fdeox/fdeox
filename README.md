@@ -5,7 +5,6 @@ hi, I'm **Ahmet**
 ## `fdeox@github:~ $ cat about.txt`
 
 - 🎓 studied **web design & programming** in high school
-- 🔧 worked at **Casper** technical service, IV Kandilli Project in Istanbul
 - 🏛️ university degree in **architecture**
 - 🏗️ currently working as an **architect**
 
