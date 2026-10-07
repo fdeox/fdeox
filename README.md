@@ -7,7 +7,7 @@ hi, I'm **Ahmet**
 - 🎓 studied **web design & programming** in high school
 - 🔧 worked at **Casper** technical service, IV Kandilli Project in Istanbul
 - 🏛️ university degree in **architecture**
-- 🏗️ currently working as a **Architect** on the **Florentia Village Istanbul** project
+- 🏗️ currently working as an **architect**
 
 ## `fdeox@github:~ $ ls skills/`
 
