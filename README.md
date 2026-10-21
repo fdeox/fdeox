@@ -33,5 +33,7 @@ hi, I'm **Ahmet**
 - **[termspot](https://github.com/fdeox/termspot)** — CRT phosphor terminal theme for Spotify: hidden command terminal, live ASCII album art, 18+ color schemes
 - **[Terminal Greeting](https://github.com/fdeox/spicetify-terminal-greeting)** — a terminal prompt for your Spotify home page: greeting, live clock, now-playing ticker, fake boot screen
 - **[Spotiamp+](https://github.com/fdeox/spotiamp-plus)** — A Winamp-style desktop player for Spotify
+- **[Deonyx](https://github.com/fdeox/deonyx)** — Dark mode for any Windows app.
+
 
 
